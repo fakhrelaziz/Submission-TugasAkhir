@@ -6,6 +6,10 @@
     scroll-behavior: smooth;
 }
 
+html{
+    scroll-padding-top: 50px;
+}
+
 footer {
     border-top: 2px solid rgba(225, 225, 225, 0.7);
 }
@@ -101,7 +105,7 @@ h2, h3 {
 }
 
 aside h2,h3 {
-    color: #efff;
+    color: #ffff;
     background-color: rgb(116, 113, 81);
 }
 .content p {
